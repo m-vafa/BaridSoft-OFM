@@ -18,6 +18,7 @@
 | [OFM-ERR-001](Database-Backend/OFM-ERR-001.md) | NullReferenceException در SendSms | Backend/BPMS | نیازمند بررسی |
 | [OFM-ERR-002](Database-Backend/OFM-ERR-002.md) | Character literal must contain exactly one character | Backend/.NET | راهنمای عمومی ثبت شد |
 | [OFM-ERR-003](Workflow-BPMS/OFM-ERR-003.md) | Sequence contains no matching element | Workflow-BPMS | علت محتمل و راهکار ثبت شد |
+| [OFM-ERR-004](Database-Backend/OFM-ERR-004.md) | بروز خطای مدیریت نشده هنگام ارسال فرم — ORA-01653 | Database-Backend / Oracle | رفع‌شده و تأییدشده توسط مشتری |
 
 ## قالب ثبت
 شناسه، تاریخ، پیام خطا، محل وقوع، شواهد، علت قطعی/محتمل، روش بررسی، راهکار رفع، متن پاسخ مشتری، وضعیت تأیید.
